@@ -10,13 +10,19 @@ fourth line
 fifth line of code
 6th line of code
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 421098183120ae5613a4868758f62063bacb30c9
 =======
+=======
+>>>>>>> 52672fa902c55eb9b97c001a3e2d5c59127d2f9e
 dsafjsg
 gsdfgrhur
 etuerue
 etj
 etyi
 triyrt
+<<<<<<< HEAD
 sonam rastogi
+>>>>>>> 52672fa902c55eb9b97c001a3e2d5c59127d2f9e
+=======
 >>>>>>> 52672fa902c55eb9b97c001a3e2d5c59127d2f9e
